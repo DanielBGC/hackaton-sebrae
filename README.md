@@ -20,7 +20,7 @@ Projeto desenvolvido durante o hackaton realizado pelo [SEBRAE](https://sebrae.c
 
 <a id="desafio"></a>
 
-## ⚔️: Desafio
+## ⚔️ Desafio
 
 <p>A Granto Seguros é uma empresa que facilita a contratação de seguros por meio
 de tecnologia e atendimento humanizado em todo Brasil e que vem propor o
@@ -44,11 +44,13 @@ mais eficiente, sustentável e garantir segurança para os agentes envolvidos.</
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - [JavaScript](https://www.javascript.com/)
+- [Bootstrap](https://getbootstrap.com.br)
 
+- O layout está disponível no **[Figma](https://www.figma.com/file/QmtN6Tbitf0LsppUzdGwsV/Free-Landing-Page-Design-(Community))**;
 
 <a id="integrantes"></a>
 
-## Integrantes
+## 😃 Integrantes
 
 - Daniel Borba 
 - David Gabriel
