@@ -14,7 +14,11 @@ function salvarForm() {
 
   let cad = {
     nome: document.getElementById("nome").value,
-    idade: document.getElementById("idade").value
+    empresa: document.getElementById("empresa").value,
+    idade: document.getElementById("idade").value,
+    endereco: document.getElementById("endereco").value,
+    opniao: document.getElementById("opniao").value,
+    tamanhoTerreno: document.getElementById("tamanhoTerreno").value
   }
 
   localStorage.setItem("cad_" + localStorage.cont, JSON.stringify(cad));
